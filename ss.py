@@ -1,5 +1,4 @@
 import requests
-import time
 # Set the request headers.
 headers = {
   "Cookie": "_ga=GA1.1.936671765.1698556372; _ga_8586FJ874T=GS1.1.1698556371.1.1.1698556513.0.0.0",
