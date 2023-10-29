@@ -1,5 +1,5 @@
 # Maniya-vote
 To install run 
-//pip install Faker
-
+//python -m pip install Faker
+//python -m pip install requests
 and run ss.cmd
